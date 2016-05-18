@@ -13,7 +13,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Upper"
-        android:id="@+id/button"
+        android:id="@+id/upperButton"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="143dp"
         android:onClick="toUpper"
